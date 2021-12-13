@@ -1,0 +1,79 @@
+.side-bar {
+  background-color: #053742;
+  min-width: 200px;
+}
+
+.hide {
+  color: #053742;
+}
+span {
+  color: #a2dbfa;
+  font-size: 25px;
+}
+.body {
+  background-color: #E8F0F2;
+}
+.background {
+  background-color: #E8F0F2;
+}
+
+p,
+h4,
+h1,
+h2,
+h3 {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:visited,
+.btn-secondary:focus {
+  background-color: #a2dbfa;
+  border: #a2dbfa;
+  color: #f1faee;
+}
+
+.btn-secondary:hover {
+  background-color: #a8dadc;
+  border: #a8dadc;
+  color: black;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  background-color: #a8dadc;
+  border: #a8dadc;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #1d3557;
+  border: #1d3557;
+  color: #f1faee;
+}
+
+.tableCard {
+  background-color: #E8F0F2;
+  margin: 5px;
+
+}
+
+div.tableCard p {
+  color: black;
+}
+
+.resCard {
+  background-color: #E8F0F2;
+}
+
+div.resCard p {
+  font-weight: bolder;
+  color: black;
+}
+
+.statusCard {
+  background-color: #f1faee;
+}
